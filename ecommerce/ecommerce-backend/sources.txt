@@ -1,0 +1,14 @@
+C:\Users\dylan\.gemini\antigravity-ide\scratch\ecommerce-backend\src\main\java\com\ecommerce\backend\EcommerceApplication.java
+C:\Users\dylan\.gemini\antigravity-ide\scratch\ecommerce-backend\src\main\java\com\ecommerce\backend\controllers\AuthController.java
+C:\Users\dylan\.gemini\antigravity-ide\scratch\ecommerce-backend\src\main\java\com\ecommerce\backend\controllers\AvatarController.java
+C:\Users\dylan\.gemini\antigravity-ide\scratch\ecommerce-backend\src\main\java\com\ecommerce\backend\controllers\CartController.java
+C:\Users\dylan\.gemini\antigravity-ide\scratch\ecommerce-backend\src\main\java\com\ecommerce\backend\controllers\SearchController.java
+C:\Users\dylan\.gemini\antigravity-ide\scratch\ecommerce-backend\src\main\java\com\ecommerce\backend\models\Cart.java
+C:\Users\dylan\.gemini\antigravity-ide\scratch\ecommerce-backend\src\main\java\com\ecommerce\backend\models\CartItem.java
+C:\Users\dylan\.gemini\antigravity-ide\scratch\ecommerce-backend\src\main\java\com\ecommerce\backend\models\Product.java
+C:\Users\dylan\.gemini\antigravity-ide\scratch\ecommerce-backend\src\main\java\com\ecommerce\backend\models\User.java
+C:\Users\dylan\.gemini\antigravity-ide\scratch\ecommerce-backend\src\main\java\com\ecommerce\backend\services\AuthService.java
+C:\Users\dylan\.gemini\antigravity-ide\scratch\ecommerce-backend\src\main\java\com\ecommerce\backend\services\AvatarUploadService.java
+C:\Users\dylan\.gemini\antigravity-ide\scratch\ecommerce-backend\src\main\java\com\ecommerce\backend\services\CartService.java
+C:\Users\dylan\.gemini\antigravity-ide\scratch\ecommerce-backend\src\main\java\com\ecommerce\backend\services\SearchQueryBuilder.java
+C:\Users\dylan\.gemini\antigravity-ide\brain\31b634d6-416b-445f-92ac-65d1bd79e829\scratch\TestRusticBackend.java

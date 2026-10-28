@@ -1,0 +1,13 @@
+com\ecommerce\backend\models\Product.class
+com\ecommerce\backend\controllers\SearchController.class
+com\ecommerce\backend\models\CartItem.class
+com\ecommerce\backend\services\SearchQueryBuilder.class
+com\ecommerce\backend\controllers\AvatarController.class
+com\ecommerce\backend\services\AvatarUploadService.class
+com\ecommerce\backend\services\CartService.class
+com\ecommerce\backend\controllers\CartController.class
+com\ecommerce\backend\models\Cart.class
+com\ecommerce\backend\controllers\AuthController.class
+com\ecommerce\backend\EcommerceApplication.class
+com\ecommerce\backend\services\AuthService.class
+com\ecommerce\backend\models\User.class
